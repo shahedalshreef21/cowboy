@@ -1,5 +1,4 @@
-= cowboy_req:delete_resp_header(3)
-
+,,,,,,,nmnjbgbvghkgbbnmmhnbmp$6547yj6ip0[;-[lo[;lp[][km;okm
 == Name
 
 cowboy_req:delete_resp_header - Delete a response header
